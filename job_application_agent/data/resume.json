@@ -1,0 +1,49 @@
+{
+  "personal_info": {
+    "first_name": "Jules",
+    "last_name": "Doe",
+    "email": "jules.doe@email.com",
+    "phone": "123-456-7890",
+    "linkedin": "linkedin.com/in/julesdoe"
+  },
+  "work_experience": [
+    {
+      "title": "Software Engineer",
+      "company": "Tech Corp",
+      "location": "San Francisco, CA",
+      "start_date": "Jan 2022",
+      "end_date": "Present",
+      "responsibilities": [
+        "Developed and maintained web applications using Python and Django.",
+        "Collaborated with cross-functional teams to define, design, and ship new features."
+      ]
+    },
+    {
+      "title": "Junior Developer",
+      "company": "Code Base",
+      "location": "Austin, TX",
+      "start_date": "Jun 2020",
+      "end_date": "Dec 2021",
+      "responsibilities": [
+        "Assisted in the development of a new mobile application.",
+        "Wrote and maintained technical documentation."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "university": "State University",
+      "location": "Anytown, USA",
+      "graduation_date": "May 2020"
+    }
+  ],
+  "skills": [
+    "Python",
+    "Django",
+    "JavaScript",
+    "React",
+    "SQL",
+    "Git"
+  ]
+}
